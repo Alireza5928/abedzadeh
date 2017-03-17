@@ -30,5 +30,5 @@ echo 'Processes : '"$ProcessCnt"
 echo "---------------"
 echo 'Uptime : '"$uptime"
 echo "---------------"
-echo "#TeleDiamond"
+echo "#ABEDZADEH BOT"
 
